@@ -48,14 +48,18 @@ public class Logic {
          }
     }
 
-    do{
+    /*do{
         System.out.println(j);
     }while(j<0);
 
     if(false)
         System.out.println("123");
 
-    String test 1=j>123 ? "Y":"N";
+    String test 1=j>123 ? "Y":"N";*/
+
+
+
+
 
      }
 }
